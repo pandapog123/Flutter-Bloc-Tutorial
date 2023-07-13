@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const Map<String, Color> namedColors = {
+  'Amber': Colors.amber,
+  'Black': Colors.black,
+  'Blue': Colors.blue,
+  'Blue Grey': Colors.blueGrey,
+  'Brown': Colors.brown,
+  'Cyan': Colors.cyan,
+  'Deep Orange': Colors.deepOrange,
+  'Deep Purple': Colors.deepPurple,
+  'Green': Colors.green,
+  'Grey': Colors.grey,
+  'Indigo': Colors.indigo,
+  'LightBlue': Colors.lightBlue,
+  'LightGreen': Colors.lightGreen,
+  'Lime': Colors.lime,
+  'Orange': Colors.orange,
+  'Pink': Colors.pink,
+  'Purple': Colors.purple,
+  'Red': Colors.red,
+  'Teal': Colors.teal,
+  'White': Colors.white,
+  'Yellow': Colors.yellow,
+};
